@@ -4,6 +4,8 @@
 
 ## 3D print
 
+![image](https://raw.githubusercontent.com/DigitasLabsParis/UnicornHorn/master/Photos/printed.jpg)
+
 ### Horn
 Stage 4
 ![image](https://raw.githubusercontent.com/DigitasLabsParis/UnicornHorn/master/3DModels/render/stage4.jpeg)
