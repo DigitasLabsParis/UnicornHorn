@@ -53,7 +53,7 @@ void loop()
         command = 255;
         oldCommand = 255;
         intensity = 1.0;
-        Serial.println(F("* Advertising started"));
+        Serial.println(F("* Advertising start"));
     }
     if (status == ACI_EVT_CONNECTED) {
         Serial.println(F("* Connected!"));
