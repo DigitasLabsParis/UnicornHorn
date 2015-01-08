@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+/Volumes/Data/Copy/LABS/06.PROJETS/28.UNICORN_HORN/AndroidApp/.metadata/.plugins/org.eclipse.jdt.core
+3418165859.index
+642738989.index
+3832640232.index
